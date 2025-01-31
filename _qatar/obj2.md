@@ -11,5 +11,5 @@ order: '01'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/Untitled.png"
-"/img/Untitled.png" 
+full: "/img/Untitled.png" 
 ---
