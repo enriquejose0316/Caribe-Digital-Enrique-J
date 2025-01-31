@@ -12,4 +12,4 @@ layout: qatar_item
 collection: qatar
 thumbnail: "/img/Untitled.png"
 full: "/img/Untitled.png" 
----
+
