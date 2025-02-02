@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Ce
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/Untitled.png"
-full: "/img/Untitled.png" 
+thumbnail: "/img/tiemposdialécticos2.png"
+full: "/img/tiemposdialécticos2.png" 
 
