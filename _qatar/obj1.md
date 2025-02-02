@@ -10,7 +10,7 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/tiemposdialécticos.png"
-full: "/img/tiemposdialécticos.png"
+thumbnail: "/img/tiemposdialecticos.png"
+full: "/img/tiemposdialecticos.png"
 
 ---
